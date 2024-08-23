@@ -1,0 +1,46 @@
+﻿  cheat.cpp
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(223,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(224,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(225,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(226,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(227,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(228,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(272,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(274,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\cheat\cheat.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\cheat\cheat.cpp(93,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\cheat\cheat.cpp(93,42): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(223,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(224,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(225,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(226,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(227,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(228,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(272,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(274,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(374,75): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(374,75): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(374,75): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(374,75): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(374,75): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(388,82): warning C4244:         ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(375,90): warning C4244: 'argument': conversion from '_Ty' to 'float', possible loss of data
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(375,90): warning C4244:         with
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(375,90): warning C4244:         [
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(375,90): warning C4244:             _Ty=double
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\include\xutility(375,90): warning C4244:         ]
+  Generating code
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\memory\memorymanager.h(24): warning C4715: 'MemoryManager::Read<unsigned __int64>': not all control paths return a value
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\memory\memorymanager.h(24): warning C4715: 'MemoryManager::Read<unsigned int>': not all control paths return a value
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\memory\memorymanager.h(24): warning C4715: 'MemoryManager::Read<Vector3>': not all control paths return a value
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\memory\memorymanager.h(24): warning C4715: 'MemoryManager::Read<FMinimalViewInfo>': not all control paths return a value
+  341 of 368 functions (92.7%) were compiled, the rest were copied from previous compilation.
+    136 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MemoryManipulator.vcxproj -> C:\Users\void\source\repos\MemoryManipulator\x64\Release\Unreal Engine Base.exe

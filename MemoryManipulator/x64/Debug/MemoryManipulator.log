@@ -1,0 +1,34 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MemoryManipulator.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  overlay.cpp
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(87,27): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(87,23): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(88,27): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(88,23): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(107,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(107,27): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(108,31): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(108,27): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(129,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(163,93): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(163,48): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(163,24): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(163,21): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(130,5): error C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(180,65): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(180,55): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(180,48): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\render\overlay.cpp(180,41): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+  cheat.cpp
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(223,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(224,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(225,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(226,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(227,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(228,28): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(272,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\dependencies\SDK.hpp(274,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\cheat\cheat.cpp(39,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\void\source\repos\MemoryManipulator\MemoryManipulator\src\memory\memorymanager.h(25,3): error C2440: 'return': cannot convert from 'int' to 'FMinimalViewInfo'
+  memorymanager.cpp
+  main.cpp
+  Generating Code...
